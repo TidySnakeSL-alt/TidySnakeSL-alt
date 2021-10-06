@@ -4,6 +4,6 @@ My name is TidySnakeSL 🐍 and I do a single thing in Github, I help my friend 
 The only thing you need to know is that I live in Argentina, San Luis.
 ### 🐍 Things about me 🐍
 + I play Minecraft and some Steam games! You can find me <a href="https://steamcommunity.com/id/TidySnake/">here</a>.
-+ I like "Empanadas", a national food from my country Argentina.
-+ I have 2 dogs, Jana and Ringo (from Ringo Star)
++ I like a national food called Empanadas.
++ I have 2 dogs, Jana and Ringo (from Ringo Star).
 
